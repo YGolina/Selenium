@@ -1,2 +1,2 @@
-# selenium
+# Selenium
 Selenium Course
